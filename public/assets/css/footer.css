@@ -1,0 +1,29 @@
+
+.row{
+    margin: 30px;
+}
+.custom-footer{
+    border-top: 2px solid rgba(189, 129, 216, 0.767);
+    box-shadow: 10px 1px 15px 5px rgba(189, 129, 216, 0.5);
+    color:#52307c;
+    margin-top: 100px;
+}
+
+.custom-footer h5{
+    font-weight:500;
+    margin-bottom:10px;
+}
+
+.custom-footer p{
+    margin-bottom:0;
+}
+
+.footer-logo{
+    height:80px;
+    object-fit:contain;
+}
+
+.custom-footer hr{
+    border-color: 1px solid rgba(189, 129, 216, 0.767);
+    margin: 25px;
+}
